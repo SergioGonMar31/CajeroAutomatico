@@ -18,7 +18,7 @@ Aplicación de consola en Kotlin que simula un cajero automático. Permite consu
  
 1. Clona el repositorio:
 ```bash
-   git clone https://github.com/usuario/UD01_Actividad05_CajeroAutomatico.git
+   git clone https://github.com/SergioGonMar31/CajeroAutomatico.git
 ```
 2. Abre el proyecto en IntelliJ IDEA.
 3. Ejecuta el archivo `Main.kt`.
